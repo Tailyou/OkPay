@@ -2,7 +2,7 @@
 移动支付框架，封装了微信支付、支付宝支付，两种支付方式保持了统一的使用风格，使用方便。
 
 ## 二、版本
-最新版本0.0.1，compile 'com.hengda.zwf:AndroidPay:0.0.1'
+最新版本0.0.1，compile 'com.hengda.zwf:OkPay:0.0.1'
 
 ## 三、使用
 
